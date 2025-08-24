@@ -1,0 +1,20 @@
+[
+  {
+    "Author": "darkarchon, mayo",
+    "Name": "Mare Synchronos 2",
+    "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+    "InternalName": "mareSynchronos",
+    "AssemblyVersion": "1.11.0.0",
+    "TestingAssemblyVersion": null,
+    "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "LoadPriority": 0,
+    "Punchline": "Let others see you as you see yourself.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://git.heyitsmayo.com/attachments/484fef59-6f33-4718-9ffa-61478364b455",
+    "DownloadLinkTesting": "https://git.heyitsmayo.com/attachments/484fef59-6f33-4718-9ffa-61478364b455",
+    "DownloadLinkUpdate": "https://git.heyitsmayo.com/attachments/484fef59-6f33-4718-9ffa-61478364b455"
+  }
+]
