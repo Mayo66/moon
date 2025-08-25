@@ -15,7 +15,7 @@
     "TestingAssemblyVersion": "1.11.0.7",
     "TestingDalamudApiLevel": 13,
     "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/0.0.0.3/0.0.0.3.zip",
-    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/0.0.0.4/0.0.0.4-beta.zip",
+    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/0.0.0.4/0.0.0.4.beta.zip",
     "DownloadLinkUpdate": "https://github.com/Mayo66/moon/releases/download/0.0.0.3/0.0.0.3.zip",
     "IconUrl": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/logo.png"
   }
