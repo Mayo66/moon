@@ -15,6 +15,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/0.0.0.3/0.0.0.3.zip",
     "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/0.0.0.3/0.0.0.3.zip",
-    "DownloadLinkUpdate": "https://github.com/Mayo66/moon/releases/download/0.0.0.3/0.0.0.3.zip"
+    "DownloadLinkUpdate": "https://github.com/Mayo66/moon/releases/download/0.0.0.3/0.0.0.3.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/logo.png"
   }
 ]
