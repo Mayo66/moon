@@ -4,7 +4,7 @@
     "Name": "Anatoli Iliou",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
-    "InternalName": "mareSynchronos",
+    "InternalName": "AnatoliIliou",
     "AssemblyVersion": "1.11.0.8",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
