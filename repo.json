@@ -14,9 +14,9 @@
     "IsTestingExclusive": false,
     "TestingAssemblyVersion": "1.11.0.84",
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/0.0.0.6/0.0.0.6hotfix4.zip",
-    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/0.0.0.6/0.0.0.6hotfix4.zip",
-    "DownloadLinkUpdate": "https://github.com/Mayo66/moon/releases/download/0.0.0.6/0.0.0.6hotfix4.zip",
+    "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/0.0.0.6/0.0.0.6hotfix5.zip",
+    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/0.0.0.6/0.0.0.6hotfix5.zip",
+    "DownloadLinkUpdate": "https://github.com/Mayo66/moon/releases/download/0.0.0.6/0.0.0.6hotfix5.zip",
     "IconUrl": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/logosmall.png"
   }
 ]
