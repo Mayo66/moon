@@ -12,10 +12,10 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "TestingAssemblyVersion": "1.11.0.95",
+    "TestingAssemblyVersion": "2.0.0.0",
     "TestingDalamudApiLevel": 13,
     "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/0.0.0.9/0.0.0.95.zip",
-    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/0.0.0.9/0.0.0.95.zip",
+    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/v2.0.0.testing1/testing2.0.0.0.zip",
     "DownloadLinkUpdate": "https://github.com/Mayo66/moon/releases/download/0.0.0.9/0.0.0.95.zip",
     "IconUrl": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/logosmall.png"
   }
