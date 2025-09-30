@@ -1,21 +1,21 @@
 [
   {
-    "Author": "mayo, lunar rain, irvine, graffy",
+    "Author": "mayo, lunar rain, irvine",
     "Name": "Anatoli Iliou",
     "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
     "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
     "InternalName": "AnatoliIliou",
-    "AssemblyVersion": "2.1.0.13",
+    "AssemblyVersion": "2.1.0.14",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "LoadPriority": 0,
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "TestingAssemblyVersion": "2.1.0.13",
+    "TestingAssemblyVersion": "2.1.0.14",
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/2.1.0.0/2.1.0.13.zip",
-    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/2.1.0.0/2.1.0.13.zip",
+    "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/2.1.0.0/2.1.0.14.zip",
+    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/2.1.0.0/2.1.0.14.zip",
     "IconUrl": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/logosmall.png"
   }
 ]
