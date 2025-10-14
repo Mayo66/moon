@@ -6,6 +6,7 @@
     "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
     "InternalName": "AnatoliIliou",
     "AssemblyVersion": "2.1.0.16",
+    "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/2.1.0.0/2.1.0.16.zip",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "LoadPriority": 0,
@@ -14,8 +15,7 @@
     "IsTestingExclusive": false,
     "TestingAssemblyVersion": "2.1.9.16",
     "TestingDalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/2.1.0.0/2.1.0.16.zip",
-    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/2.1.1/2.1.8.16.zip",
+    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/2.1.1/2.1.9.16.zip",
     "IconUrl": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/logosmall.png"
   }
 ]
