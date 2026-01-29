@@ -13,9 +13,9 @@
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "TestingAssemblyVersion": "2.6.9.9",
+    "TestingAssemblyVersion": "2.6.9.10",
     "TestingDalamudApiLevel": 14,
-    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/2.6.0/2.6.9.9.zip",
+    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/2.6.0/2.6.9.10.zip",
     "IconUrl": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/logosmall.png"
   }
 ]
