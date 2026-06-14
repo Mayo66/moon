@@ -6,16 +6,16 @@
     "RepoUrl": "https://git.heyitsmayo.com/MareMirror/client",
     "InternalName": "AnatoliIliou",
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "2.18.11",
-    "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/2.18/2.18.11.zip",
+    "AssemblyVersion": "2.18.12",
+    "DownloadLinkInstall": "https://github.com/Mayo66/moon/releases/download/2.18/2.18.12.zip",
     "ApplicableVersion": "any",
     "LoadPriority": 0,
     "Punchline": "Let others see you as you see yourself.",
     "IsHide": false,
     "IsTestingExclusive": false,
     "TestingDalamudApiLevel": 15,
-    "TestingAssemblyVersion": "2.18.11",
-    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/2.18/2.18.11.zip",
+    "TestingAssemblyVersion": "2.18.12",
+    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/2.18/2.18.12.zip",
     "IconUrl": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/logosmall.png"
   }
 ]
