@@ -14,8 +14,8 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "TestingDalamudApiLevel": 15,
-    "TestingAssemblyVersion": "2.18.15",
-    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/2.18/2.18.15.zip",
+    "TestingAssemblyVersion": "2.18.16",
+    "DownloadLinkTesting": "https://github.com/Mayo66/moon/releases/download/2.18/2.18.16.zip",
     "IconUrl": "https://raw.githubusercontent.com/Mayo66/moon/refs/heads/main/logosmall.png"
   }
 ]
